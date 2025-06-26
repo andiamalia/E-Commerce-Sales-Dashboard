@@ -1,6 +1,12 @@
-# E-Commerce-Sales-Dashboard
+# 📊 E-Commerce Sales Dashboard
 ### Setup Environment - Terminal
-cd Submission 1
+```bash
+cd Submission-1
+
 python -m venv .venv
+
 .venv\Scripts\Activate
+
+### Run steamlit app
+streamlit run dashboard.py
 
