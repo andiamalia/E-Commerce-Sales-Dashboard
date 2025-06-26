@@ -1,2 +1,6 @@
 # E-Commerce-Sales-Dashboard
-### Setup Environment - Use Command Line
+### Setup Environment - Terminal
+cd Submission 1
+python -m venv .venv
+.venv\Scripts\Activate
+
